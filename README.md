@@ -4,15 +4,19 @@
 One of my customers sent me the following message on fiverr: `I need help creating one table/CSV-file from a few different tables (in GTFS-format).` 
 There are three different tables. `trips.txt calendar.txt and stop_times.txt`. The goal is that I needed to combine them and made some data engineering. 
 
-### Table 1
+### Calendar dates
 
-![table one](/images/new_calendar_dates.png)
+![table one](/images/calendar_dates.png)
 
-### Table 1
+### Trips
 
-![table one](/images/new_calendar_dates.png)
+![trips](/images/trips.png)
 
+### Stop times
 
+![stop times](/images/stop_times.png)
+
+### My goal
 
 ![Final](/images/final.png)
 
