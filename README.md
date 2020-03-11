@@ -1,12 +1,18 @@
 # Combining multitables on key
 
 ## Goal
-The look in stop_times.txt we can see there are 33 rows in that file with this trip id. Each row represents a stop on the trip for this specific trip.
-From trips.txt we also get that the service_id = 116
-Looking in calendar_dates for this service id we can see that it is valid every day in the requested period (February 24 to March 1st) . This means that there will be 7*32 lines added to the new file for this trip. 32 sub_trips every day in that week.
+One of my customers sent me the following message on fiverr: `I need help creating one table/CSV-file from a few different tables (in GTFS-format).` 
+There are three different tables. `trips.txt calendar.txt and stop_times.txt`. The goal is that I needed to combine them and made some data engineering. 
+
+### Table 1
+
+![table one](/images/new_calendar_dates.png)
+
+### Table 1
+
+![table one](/images/new_calendar_dates.png)
 
 
- 
 
 ![Final](/images/final.png)
 
