@@ -4,12 +4,6 @@
 One of my customers sent me the following message on fiverr: `I need help creating one table/CSV-file from a few different tables (in GTFS-format).` 
 There are three different tables. `trips.txt calendar.txt and stop_times.txt`. The goal is that we needed to combine them and made some data engineering. 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-
 ### Calendar dates
 
   index  | service_id    | date     | exception_type
