@@ -6,7 +6,7 @@ There are three different tables. `trips.txt calendar.txt and stop_times.txt`. T
 
 ### Calendar dates
 
-![table one](/images/calendar_dates.png){height:200px width=200px}
+![table one](/images/calendar_dates.png =100x20)
 
 ### Trips
 
