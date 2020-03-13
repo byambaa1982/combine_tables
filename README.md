@@ -12,10 +12,10 @@ Content in the first column | Content in the second column
 
 ### Calendar dates
 
-    | service_id    | date     | exception_type
---- | ------------- | -------- | --------------
+  index  | service_id    | date     | exception_type
+-------- | ------------- | -------- | --------------
 0   | 1             | 20200205 | 1
-1   | 1 	        | 20200206 | 1
+1   | 1 	    | 20200206 | 1
 2   | 1             | 20200207 | 1
 3   | 1             | 20200212 | 1
 
