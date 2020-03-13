@@ -6,7 +6,13 @@ There are three different tables. `trips.txt calendar.txt and stop_times.txt`. T
 
 ### Calendar dates
 
-![table one](/images/calendar_dates.png =100x20)
+    | service_id | date | exception_type
+------------ | ------------- | ------------------
+0 | 1 | 20200205 | 1
+1 | 1 | 20200206 | 1
+2 | 1 | 20200207 | 1
+3 | 1 | 20200212 | 1
+
 
 ### Trips
 
