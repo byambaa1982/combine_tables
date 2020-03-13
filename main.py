@@ -4,9 +4,9 @@ import numpy as np
 # -------  Read CSV data ----------
 
 
-stop=pd.read_csv('Arkiv/stops.txt')
+# stop=pd.read_csv('Arkiv/stops.txt')
 stop_times=pd.read_csv('Arkiv/stop_times.txt')
-calendar=pd.read_csv('Arkiv/calendar.txt')
+# calendar=pd.read_csv('Arkiv/calendar.txt')
 calendar_dates=pd.read_csv('Arkiv/calendar_dates.txt')
 trips=pd.read_csv('Arkiv/trips.txt')
 
